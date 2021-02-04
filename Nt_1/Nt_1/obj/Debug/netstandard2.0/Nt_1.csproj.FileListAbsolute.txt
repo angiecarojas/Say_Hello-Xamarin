@@ -1,0 +1,14 @@
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\bin\Debug\netstandard2.0\Nt_1.deps.json
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\bin\Debug\netstandard2.0\Nt_1.dll
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\bin\Debug\netstandard2.0\ref\Nt_1.dll
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\bin\Debug\netstandard2.0\Nt_1.pdb
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\Nt_1.csprojAssemblyReference.cache
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\Nt_1.AssemblyInfoInputs.cache
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\Nt_1.AssemblyInfo.cs
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\Nt_1.csproj.CoreCompileInputs.cache
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\Nt_1.dll
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\ref\Nt_1.dll
+C:\Users\claus\source\repos\Nt_1\Nt_1\Nt_1\obj\Debug\netstandard2.0\Nt_1.pdb
